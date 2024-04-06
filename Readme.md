@@ -3,7 +3,7 @@ This project shows how to create a custom file format and use an application (CV
 
 | Demo |
 |------|
-| ![Capture](../CVCreator/Docs/Capture.PNG) |
+| ![Capture](/CVCreator/Docs/Capture.PNG) |
 
 ## Intro
 CVCreator is a WPF C# application that creates CV and safes the file with our custom file format.
